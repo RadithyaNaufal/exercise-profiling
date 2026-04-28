@@ -11,9 +11,9 @@
 ![Highest GPA jtl Results](./screenshots/testresults3.png)
 
 ## 5. Refactoring Result
-![Before Refactoring](./screenshots/proofbeforerefactor.png)
+![Before Refactoring](./screenshots/highest-gpa.png)
 ![After Refactoring Results](./screenshots/refactor.png)
-After refactoring, the average time is 77ms while before refactor was 148ms so the improvement is around 47.97%
+After refactoring, the average time is 19ms while before refactor was 40ms.
 
 # Reflection
 1. JMeter is testing from outside like a user to see how fast the response is for the web. But profiler is looking deep inside the Java code to find which method is using all the CPU power.
